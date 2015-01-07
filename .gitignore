@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # From https://github.com/github/gitignore/blob/master/Android.gitignore 2015-01-06
 
+=======
+# I got this from https://github.com/github/gitignore/blob/master/Android.gitignore -- 2014-09-09
+>>>>>>> noAnotherfile
 
 # Built application files
 *.apk
